@@ -1,4 +1,4 @@
-# Gabrielly Lima 👨‍💻
+# Ana Gabrielly 👨‍💻
 
 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente no **3º Serie**. Estou sempre quebrando a cabeça com código 💡💻 — mas é assim que se aprende, né?
 
